@@ -50,7 +50,7 @@
 * 2.0.9: https://dl.ui.com/firmwares/edgemax/v2.0.9-hotfix.2/ER-e100.v2.0.9-hotfix.2.5402463.tar
   - Source code: https://dl.ui.com/firmwares/edgemax/v2.0.9-hotfix.2/gpl/GPL.ER-e100.v2.0.9-hotfix.2.5402463.tar.bz2
 * 2.0.8: https://dl.ui.com/firmwares/edgemax/v2.0.8-hotfix.1/ER-e100.v2.0.8-hotfix.1.5278088.tar
-  - Source code:https://dl.ui.com/firmwares/edgemax/v2.0.8-hotfix.1/gpl/GPL.ER-e100.v2.0.8-hotfix.1.5278088.tar.bz2
+  - Source code: https://dl.ui.com/firmwares/edgemax/v2.0.8-hotfix.1/gpl/GPL.ER-e100.v2.0.8-hotfix.1.5278088.tar.bz2
 
 ## UFiber Nano G
 * 4.3.1: https://dl.ui.com/firmwares/ufiber/UF-ONU.UF-NANOG.v4.3.1.2153-c1f.210421.0702.img
